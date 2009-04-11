@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+        <!--     This DAISY Book was generated with odt2dtbook      -->
+        <!--     More info at http://odt2dtbook.sourceforge.net     -->
+        <!--     © Copyright 2008 - Vincent Spiewak                 -->
+        
+        
+<!DOCTYPE dtbook
+          PUBLIC "-//NISO//DTD dtbook 2005-3//EN" 
+          "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd">
+
+                
+                <dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" version="2005-3" xml:lang="en-US">
+   <head>
+      <meta name="dc:Identifier" content="d8807d23-d291-49c4-99de-9f46bc842163"/>
+      <meta name="dc:Language" content="en-US"/>
+      <meta name="dc:Title" content="Test"/>
+      <meta name="dc:Creator" content="Greg"/>
+      <meta name="dc:Publisher" content="greg"/>
+      <meta name="dtb:Producer" content="greg"/>
+      <meta name="dc:Date" content="2009-04-11"/>
+      <meta name="dc:Type" content="Text"/>
+      <meta name="dc:Format" content="ANSI/NISO Z39.86-2005"/>
+      <meta name="dtb:uid" content="d8807d23-d291-49c4-99de-9f46bc842163"/>
+      <meta name="dtb:revision" content="1"/>
+      <meta name="dtb:revisionDate" content="2009-04-11"/>
+      <meta name="Generator" content="odt2dtbook by Vincent Spiewak"/>
+   </head>
+   <book>
+      <frontmatter>
+         <doctitle>Test</doctitle>
+         <docauthor>Greg</docauthor>
+         <!--[FrontMatter Mode: None]-->
+      </frontmatter>
+      <bodymatter>
+         <level1>
+            <h1>This is a gender test</h1>
+            <p>This is a male voice.</p>
+            <p>This is a female voice.</p>
+         </level1>
+      </bodymatter>
+   </book>
+</dtbook>
