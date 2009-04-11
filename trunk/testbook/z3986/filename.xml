@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?><!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd"><!--     This DAISY Book was generated with odt2dtbook      --><!--     More info at http://odt2dtbook.sourceforge.net     --><!--     © Copyright 2008 - Vincent Spiewak                 --><?xml-stylesheet href='dtbook.2005.basic.css' type='text/css'?><dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" version="2005-3" xml:lang="en-US">
+	<head>
+		<meta content="d8807d23-d291-49c4-99de-9f46bc842163" name="dc:Identifier" />
+		<meta content="en-US" name="dc:Language" />
+		<meta content="Test" name="dc:Title" />
+		<meta name="dc:Creator" content="Greg" />
+		<meta name="dc:Publisher" content="greg" />
+		<meta name="dtb:Producer" content="greg" />
+		<meta content="2009-04-11" name="dc:Date" />
+		<meta content="Text" name="dc:Type" />
+		<meta content="ANSI/NISO Z39.86-2005" name="dc:Format" />
+		<meta content="d8807d23-d291-49c4-99de-9f46bc842163" name="dtb:uid" />
+		<meta content="1" name="dtb:revision" />
+		<meta content="2009-04-11" name="dtb:revisionDate" />
+		<meta name="Generator" content="odt2dtbook by Vincent Spiewak" />
+	</head>
+	<book>
+		<frontmatter>
+			<doctitle id="dtb1" smilref="speechgen0001.smil#tcp1">Test</doctitle>
+			<docauthor smilref="speechgen0001.smil#tcp2" id="dtb2">Greg</docauthor><!--[FrontMatter Mode: None]-->
+		</frontmatter>
+		<bodymatter>
+			<level1>
+				<h1 smilref="speechgen0002.smil#tcp3" id="dtb3">This is a gender test</h1>
+				<p id="dtb4" smilref="speechgen0002.smil#tcp4">This is a male voice.</p>
+				<p id="dtb5" smilref="speechgen0002.smil#tcp5">This is a female voice.</p>
+			</level1>
+		</bodymatter>
+	</book>
+</dtbook>
